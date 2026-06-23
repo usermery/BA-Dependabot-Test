@@ -9,5 +9,5 @@ updates:
     directory: "/" # Location of package manifests
     schedule:
       interval: "cron"
-      cronjob: "36 3 * * 0"
+      cronjob: "10 12 * * 2"
       timezone: "Europe/Berlin"
