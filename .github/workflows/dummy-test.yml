@@ -11,4 +11,4 @@ jobs:
     steps:
       - name: Run dummy check
         run: |
-          exit 0
+          exit 1
